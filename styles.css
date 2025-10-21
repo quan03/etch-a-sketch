@@ -11,6 +11,6 @@
 .flex-container div {
     background: whitesmoke;
     border: 1px solid black;
-    width: 6.25%;
+    width: var(--div-width);
     aspect-ratio: 1;
 }
